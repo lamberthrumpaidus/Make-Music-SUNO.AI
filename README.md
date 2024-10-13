@@ -52,10 +52,3 @@ Suno.ai adalah platform berbasis kecerdasan buatan yang memungkinkan pengguna un
 
 ## 7. Dukungan dan Kontak
 Jika Anda memerlukan bantuan lebih lanjut, hubungi [saya](https://github.com/lamberthrumpaidus)
-
-## 8. Kontak untuk Pertanyaan Lebih Lanjut
-Jika Anda memiliki pertanyaan lebih lanjut, Anda dapat menghubungi saya di: [GitHub - Lamberth Rumpaidus](https://github.com/lamberthrumpaidus).
-
----
-
-Selamat berkreasi! Jika ada yang ingin Anda ketahui lebih lanjut, silakan bertanya.
